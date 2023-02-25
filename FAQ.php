@@ -92,11 +92,7 @@
                 <ul>
                     <li>
                         <a href="https://www.facebook.com/example"><i class="fab fa-facebook-f"></i> Facebook</a></li><li><a href="https://www.instagram.com/example"><i class="fab fa-instagram"></i> Instagram</a></li><li><a href="https://twitter.com/example"><i class="fab fa-twitter"></i> Twitter</a></li></ul></div>
-                        <div class='hamburger'>
-                <span class='bar'></span>
-                <span class='bar'></span>
-                <span class='bar'></span>
-            </div>
+               
          
             </div>
         </div>
